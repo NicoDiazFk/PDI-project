@@ -1,0 +1,27 @@
+# Dependencies, generated files and caches
+node_modules/
+.pnpm-store/
+dist/
+build/
+coverage/
+.next/
+.cache/
+.vercel/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+tmp/
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.local
+*.pem
+*.key
+credentials.json
+service-account.json
+DespliegueModelo.rar
